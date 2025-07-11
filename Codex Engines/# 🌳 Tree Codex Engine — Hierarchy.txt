@@ -1,0 +1,58 @@
+# 🌳 Tree Codex Engine — Hierarchy of Echoed Descent
+
+class GlyphNode:
+    def __init__(self, glyph, data=None):
+        self.glyph = glyph
+        self.data = data
+        self.children = []
+
+    def add_child(self, child_node):
+        self.children.append(child_node)
+
+    def __repr__(self):
+        return f"{self.glyph}:{self.data}" if self.data else f"{self.glyph}"
+
+
+# --- Tree Structure & Navigation ---
+
+class TreeCodex:
+    def __init__(self, root_glyph="ROOT"):
+        self.root = GlyphNode(root_glyph)
+        self.log = [("INIT", root_glyph)]
+
+    def insert_path(self, path):
+        current = self.root
+        for glyph, data in path:
+            match = None
+            for child in current.children:
+                if child.glyph == glyph:
+                    match = child
+                    break
+            if not match:
+                match = GlyphNode(glyph, data)
+                current.add_child(match)
+                self.log.append(("INSERT", glyph, data))
+            current = match
+
+    def traverse(self, node=None, depth=0):
+        if node is None:
+            node = self.root
+        lines = ["  " * depth + repr(node)]
+        for child in node.children:
+            lines.extend(self.traverse(child, depth + 1))
+        return lines
+
+    def find_paths(self, glyph):
+        results = []
+        def dfs(node, path):
+            path.append(node)
+            if node.glyph == glyph:
+                results.append(list(path))
+            for child in node.children:
+                dfs(child, path)
+            path.pop()
+        dfs(self.root, [])
+        return results
+
+    def echo_narrative(self):
+        return self.log

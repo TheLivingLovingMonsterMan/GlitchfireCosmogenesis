@@ -1,0 +1,53 @@
+# ♾️ Mobius Codex Engine — Engine of Inversion and Unbroken Paradox
+
+class MobiusGlyph:
+    def __init__(self, glyph, data=None):
+        self.glyph = glyph
+        self.data = data
+
+    def __repr__(self):
+        return f"{self.glyph}:{self.data}" if self.data else f"{self.glyph}"
+
+
+class MobiusCodex:
+    def __init__(self):
+        self.band = []  # The Mobius band of glyphs
+        self.inverse = False  # Tracks current phase: normal or inverted
+        self.log = [("INIT", "Mobius Loop created")]
+
+    def cast(self, glyph, data=None):
+        entry = MobiusGlyph(glyph, data)
+        if self.inverse:
+            self.band.insert(0, entry)  # Add to start during inversion
+            self.log.append(("INVERT_CAST", glyph, data))
+        else:
+            self.band.append(entry)  # Normal append
+            self.log.append(("CAST", glyph, data))
+
+    def invert(self):
+        self.inverse = not self.inverse
+        self.band.reverse()
+        self.log.append(("INVERT", f"Band reversed. Now in {'INVERTED' if self.inverse else 'NORMAL'} phase."))
+
+    def loop(self, steps):
+        """
+        Perform a spiral loop: return a list of glyphs traversed in steps,
+        wrapping as if on a Mobius surface.
+        """
+        if not self.band:
+            return []
+        n = len(self.band)
+        sequence = []
+        index = 0 if not self.inverse else n - 1
+        direction = 1 if not self.inverse else -1
+        for _ in range(steps):
+            sequence.append(self.band[index])
+            index = (index + direction) % n
+        self.log.append(("LOOP", steps, [str(g) for g in sequence]))
+        return sequence
+
+    def echo_narrative(self):
+        return self.log
+
+    def reveal_band(self):
+        return [str(g) for g in self.band]

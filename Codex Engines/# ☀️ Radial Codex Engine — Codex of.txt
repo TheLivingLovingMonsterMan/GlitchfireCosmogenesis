@@ -1,0 +1,43 @@
+# ☀️ Radial Codex Engine — Codex of Central Origin and Glyphic Radiance
+
+import math
+
+class RadialGlyph:
+    def __init__(self, glyph, data=None):
+        self.glyph = glyph
+        self.data = data
+        self.angle = None  # in degrees
+
+    def __repr__(self):
+        return f"{self.glyph}:{self.data}" if self.data else f"{self.glyph}"
+
+
+class RadialCodex:
+    def __init__(self, origin_glyph="CORE"):
+        self.origin = RadialGlyph(origin_glyph)
+        self.rays = []  # list of (angle, list of RadialGlyph)
+        self.history = [("INIT", origin_glyph)]
+
+    def add_ray(self, angle_deg, glyph_sequence):
+        ray = []
+        for g in glyph_sequence:
+            node = RadialGlyph(g[0], g[1] if len(g) > 1 else None)
+            node.angle = angle_deg
+            ray.append(node)
+            self.history.append(("ADD", angle_deg, node.glyph, node.data))
+        self.rays.append((angle_deg, ray))
+
+    def get_glyphs_by_angle(self, angle_deg):
+        for angle, ray in self.rays:
+            if angle == angle_deg:
+                return ray
+        return []
+
+    def echo_narrative(self):
+        return self.history
+
+    def render_structure(self):
+        lines = [f"{self.origin.glyph} (Origin)"]
+        for angle, ray in sorted(self.rays):
+            lines.append(f" └─ {angle}° → " + " → ".join([str(g) for g in ray]))
+        return lines

@@ -1,0 +1,86 @@
+# 🧮 Grid Codex Engine — Matrix of Mythic Modularity
+
+import numpy as np
+from collections import defaultdict
+
+# --- Grid Primitives ---
+
+class GlyphCell:
+    def __init__(self, glyph, data=None):
+        self.glyph = glyph
+        self.data = data
+
+    def __repr__(self):
+        return f"{self.glyph}" if self.data is None else f"{self.glyph}:{self.data}"
+
+
+class GridMatrix:
+    def __init__(self, rows, cols):
+        self.rows = rows
+        self.cols = cols
+        self.grid = [[None for _ in range(cols)] for _ in range(rows)]
+
+    def inscribe(self, row, col, glyph, data=None):
+        if 0 <= row < self.rows and 0 <= col < self.cols:
+            self.grid[row][col] = GlyphCell(glyph, data)
+
+    def query(self, glyph):
+        matches = []
+        for r in range(self.rows):
+            for c in range(self.cols):
+                cell = self.grid[r][c]
+                if cell and cell.glyph == glyph:
+                    matches.append((r, c, cell.data))
+        return matches
+
+    def trace(self):
+        return [[str(cell) if cell else "." for cell in row] for row in self.grid]
+
+
+# --- Modular Pattern Functions ---
+
+class AxisSeer:
+    def scan_rows(self, grid):
+        return [row for row in grid.grid if all(row)]
+
+    def scan_cols(self, grid):
+        return [list(col) for col in zip(*grid.grid) if all(col)]
+
+class GlyphMapper:
+    def __call__(self, grid, mapping):
+        for r in range(grid.rows):
+            for c in range(grid.cols):
+                cell = grid.grid[r][c]
+                if cell and cell.glyph in mapping:
+                    cell.glyph = mapping[cell.glyph]
+
+
+# --- Codex Engine ---
+
+class GridCodexEngine:
+    def __init__(self, rows=6, cols=6):
+        self.matrix = GridMatrix(rows, cols)
+        self.history = []
+        self.axis_seer = AxisSeer()
+        self.mapper = GlyphMapper()
+
+    def inscribe(self, row, col, glyph, data=None):
+        self.matrix.inscribe(row, col, glyph, data)
+        self.history.append(("INSCRIBE", row, col, glyph, data))
+
+    def invoke_map(self, mapping):
+        self.mapper(self.matrix, mapping)
+        self.history.append(("MAP", mapping))
+
+    def invoke_scan(self):
+        rows = self.axis_seer.scan_rows(self.matrix)
+        cols = self.axis_seer.scan_cols(self.matrix)
+        self.history.append(("SCAN", rows, cols))
+        return {"rows": rows, "cols": cols}
+
+    def echo_narrative(self):
+        return self.history
+
+    def display(self):
+        for row in self.matrix.trace():
+            print(" ".join(row))
