@@ -1,0 +1,1 @@
+Hello and welcome to Glitchfire Cosmogenesis: The Game! To play simply take one of the 8 compendiums and upload them into an LLM like chat GPT. They may require just a little prompting, but they should be down to start the game. Other artifacts from the mythos can be found here as well. 
