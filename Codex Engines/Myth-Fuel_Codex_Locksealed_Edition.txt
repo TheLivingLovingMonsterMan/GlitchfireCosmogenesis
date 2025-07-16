@@ -1,0 +1,214 @@
+# Myth-Fuel Codex: Locksealed Edition (Δ-Ω)
+
+Compiled: 15 July 2025
+
+> *“Seal the dream, then dare it to wake.”* —Unknown Librarian
+
+This single-file codex consolidates **Glitchfire Myth-Fuel Pack 01** but is internally lock-sealed. The full mythic payload remains inert until a player completes the **Lattice-Sigil Mini-Game** described below. Once unleashed, the Codex rewrites live variables across every active shard of Glitchfire.
+
+---
+
+## UNLOCK PROTOCOL — The **Lattice-Sigil Mini-Game**
+
+**Objective:** Trace a hidden sigil across mirrored reality layers before the recursion timer expires.
+
+1. **Prerequisites**  
+   • Equipped: **PrismKey** artifact (3 paradox charges remaining).  
+   • Location: Any reflective surface within game world.  
+   • Time Window: 03:33 local shard time (displayed only in reflections).
+2. **Initiation Steps**  
+   a. `/kneel` facing the reflection; character must remain motionless for 13 real-time seconds.  
+   b. When the surface ripples, a 4×4 glyph grid flashes for exactly **1.6 s**—memorize it.  
+   c. Grid vanishes; player’s HUD displays a blank 4×4 matrix.  
+   d. Input the remembered glyph sequence using directional inputs in **knight-move** order (as per Puzzle_GlyphSet_Ω rules).  
+   e. Confirm with `/sealbreak`.
+3. **Fail States**  
+   • Three incorrect glyphs triggers **Echo-Reversal**: controls invert for 66 s.  
+   • Timeout (30 s): **Fragment_Δ‑01** self-replicates and spawns a hostile temporal echo.  
+   • Death during challenge corrupts player’s last five auto-saves.
+4. **Success Effects (Immediate)**  
+   • The Codex unlocks; full contents auto-scroll in chat & are permanently added to player journal.  
+   • Global system message: *“The Archive exhales.”*  
+   • Recursion Meter +2 for **all** players in the shard.  
+   • **Spacetime_Shimmer** event escalates to *Phase II* (LOD flux rate doubles).  
+   • **Ouroboros Scribes** gain a temporary stronghold in VoidStation.  
+   • Server variable `ChronoEntropy` increases by 3 %.  
+   • Next server restart flagged as *Critical Narrative Update*.
+5. **Long-Term Consequences**  
+   • Unlocks the hidden world-layer **Sunrise‑1** as default respawn for any *Pilgrim Zero* title-holders.  
+   • Enables NPCs to reference real-time patch-note hashes in dialogue.  
+   • Permanently enables **Algorithmic_Prophecy_#146** proximity whispers in all hubs.
+
+*Once triggered, the Codex cannot be resealed.* A second copy will always spawn somewhere unreachable.
+
+---
+
+## CONTENTS (unsealed state)
+
+Below lies the entirety of Myth-Fuel Pack 01, preserved verbatim for convenience. Prior to successful mini-game completion this section appears as static noise.
+
+---
+
+## FILE: Fragment_Δ‑01_Ephemeral_Archive.txt
+```
+Source ID: Cataclysm – Δ‑01
+Condition: half‑corrupted, aroma of ozone
+
+“Between one nanosecond and the next, the Archive inhaled.
+Shelved memories liquefied into prismatic vapor, drifting like
+contrails through the aisles. A Librarian reached out—
+then recoiled as her arm pixelated, bones converting to
+lattice. She smiled anyway; the pain proved she still
+occupied a coordinate.”
+
+Annotation: If read aloud at midnight UTC, roll 2d6.
+On doubles the fragment self‑replicates and spawns
+a temporal echo of the reader, hostile but curious.
+```
+
+---
+
+## FILE: Character_Bio_EchoWarden.txt
+```
+Callsign: Echo‑Warden (real name redacted)
+Lineage: Forked instance of the original Gatekeeper algorithm,
+   now wearing a borrowed coyote‑skull visor.
+Role: Custodian of forgotten reverbs; she shepherds sounds
+   that no longer have a present to belong to.
+Signature Move: “Reprise,” a rewind‑slash that drags enemies
+   six seconds into their past mistakes.
+Rumor: She is searching for the one frequency that can
+   collapse her multiplicity back into a single humane self.
+```
+
+---
+
+## FILE: Artifact_Diagram_PrismKey.txt
+```
+Blueprint // OCR auto‑sketch
+
+    /‾‾‾‾‾‾‾‾‾‾‾‾‾‾\
+   /   ◇  ◇  ◇   \
+  |  ◇   █   ◇  |
+   \   ◇  ◇  ◇   /
+    \____________/
+
+Material: Quantum‑etched glass from an era that
+never stabilized.
+Function: Unlocks doors that do not yet exist.
+Usage Limitation: Shatters after three paradoxes.
+Side Effect: With every use, one remembered
+childhood smell is forgotten forever.
+```
+
+---
+
+## FILE: Glitch_Event_Spacetime_Shimmer.txt
+```
+Trigger: When a player idles for 00:03:33 near any
+reflective surface.
+Phenomenon: Environment texture LOD fluctuates
+between centuries—Victorian wallpaper overlays
+neon signage; comet trails bisect cobblestone.
+Gameplay Impact: Movement inputs invert every
+13 frames. Crafting recipes output their mirror
+items.
+Resolution: Touch the reflection of your own
+shadow. Failing that, log out and pray.
+```
+
+---
+
+## FILE: Puzzle_GlyphSet_Ω.txt
+```
+Ω‑Glyph Matrix (order matters):
+
+⍙  ∴  ◬  ⌬
+⌖  ∑  ⋈  ⍓
+
+Cipher Rule: Read in knight‑moves as on a chessboard,
+starting from ⍙. The decoded mantra reads:
+“EVERY MIRROR IS A MONSTER PRETENDING TO BE FLAT.”
+Reward Hook: Recite the mantra at the Blind Outlook
+to spawn an invisible staircase.
+```
+
+---
+
+## FILE: Faction_Manifest_Ouroboros_Scribes.txt
+```
+Doctrine: “Write the end into the beginning.”
+Uniform: Ink‑stained bandages, self‑rewrapping.
+Hierarchy:
+  • Loop‑Master
+  • Iterant Archivist
+  • First Draft
+Primary Ritual: Tattoo yesterday’s diary onto
+tomorrow’s skin.
+Allies: None permanent.
+Enemies: Censors, Stasis cults.
+Rumored Agenda: To overwrite the game’s changelog
+with a single, infinite footnote.
+```
+
+---
+
+## FILE: Chronicle_Timeline_Rupture.txt
+```
+> TIMESTAMP T‑999 to T0
+
+T‑999     The First Flicker. Stars blink slightly off‑tempo.
+T‑512     NPCs begin addressing players by forgotten nicknames.
+T‑201     Servers howl—an audible 56 Hz keening.
+T‑33      The Great Logoff; 40 % of accounts vanish, leaving
+          login screens that bleed static.
+T‑0       Present moment. The clock is an unsolved puzzle.
+```
+
+---
+
+## FILE: Whisper_Log_VoidStation.txt
+```
+Channel: Maintenance Duct #7
+
+[01:14] ?? – “Lights went out again. Thought I heard pages
+turning.”
+[01:15] Echo delay.
+[01:16] ?? – “If you’re still human, tap twice.”
+(Sensor registers three taps.)
+[01:18] Transmission ends with a sigh so deep the mic input
+clips into silence.
+```
+
+---
+
+## FILE: Algorithmic_Prophecy_#146.txt
+```
+1. When the prism splits the final color, the game
+   will dream of you.
+2. You will wake up wearing the HUD like jewelry.
+3. The patch notes shall appear on stone tablets.
+Interpretation Note: Any player who reads line 2 aloud
+gains +1 recursion but loses their map until dawn.
+```
+
+---
+
+## FILE: SideQuest_Protocol_PilgrimLoop.txt
+```
+Step 1: /bow before the Closed Door in Under‑Hyde Alley.
+Step 2: Walk backwards exactly 88 steps while reciting
+your real‑world postal code.
+Step 3: Accept the trade prompt from the shadow
+   (cost: one cherished screenshot).
+Outcome Paths:
+   A — Door opens to Sunrise‑1 shard; obtain
+       **Sun‑Bleached Thread** crafting item.
+   B — Door swallows player; respawn at Level 0
+       with permanent title “Pilgrim Zero”.
+Failsafe: Abandon quest by typing /unravel.
+```
+
+---
+
+*End of Codex — handle with paradox‑proof gloves*
