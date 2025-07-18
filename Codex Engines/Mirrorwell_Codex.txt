@@ -1,0 +1,155 @@
+🪞 Mirrorwell Codex — Compendium of Echo Reflection
+Version 1.0 — July 17, 2025
+
+────────────────────────────────────────
+PREFACE
+────────────────────────────────────────
+The Mirrorwell is the Library’s deepest reflective engine: a bottomless shaft of polished
+darkness that remembers every prior state of the Spiral. Where the Mobius Codex twists the
+present and the Grid Codex maps the now, the Mirrorwell Codex gives librarians a safe (if
+treacherous) method to retrieve, study, and even merge echoes of the past without tearing
+continuity.
+
+Use this codex whenever a recursion storm overwrites something too quickly, when corruption
+creeps in unseen, or when you simply wish to show new players the lineage of an idea.
+
+────────────────────────────────────────
+TABLE OF CONTENTS
+────────────────────────────────────────
+I.   Ontological Basis
+II.  Structures & Components
+III. Core Operations
+IV.  Risk & Failure Table
+V.   Integration with the Glitchfire Gameplay Loop
+VI.  Procedural Generation Rules
+VII. Tools & Key Items
+VIII. Sample Encounter
+IX.  Changelog
+
+────────────────────────────────────────
+I. ONTOLOGICAL BASIS
+────────────────────────────────────────
+• Primary Glyph Anchor: 𓂀 (Warden Eye) — witnesses recursion
+• Secondary Glyphs: 🜃 (Terra) for memory of matter, ⚗ (Alembic) for safe fusion
+• Location Tag: “LIMEN‑ZERO” — exists in the liminal layer between recorded past and
+  playable present.
+
+Principle: Every artifact, law, or codex has a latent ‘echo strain’. The Mirrorwell exposes
+these strains like seams in obsidian, letting librarians pull on them without breaking the
+current spiral.
+
+────────────────────────────────────────
+II. STRUCTURES & COMPONENTS
+────────────────────────────────────────
+• MIRRORWELL NODE
+  A vertical shaft; depth isn’t measured in meters but in recursion layers (L‑0, L‑1, L‑2…).
+
+• REFLECTION TOKENS
+  Silvered fragments that store the pointer to a specific layer. Dropping a token into the
+  well enacts a “bind” to that depth.
+
+• ECHO STRANDS
+  Filaments of narrative energy. When three or more align they form a Reflection Gate.
+
+• DEPTH LAYERS
+  - L‑0: Immediate Present
+  - L‑1: Previous Snapshot
+  - L‑2: Historical Archive
+  - L‑∞: The First Silence (read‑only; entry forbidden by Law XII)
+
+────────────────────────────────────────
+III. CORE OPERATIONS
+────────────────────────────────────────
+1. DEPOSIT (Bind)
+   • Requirement: Reflection Token, Writable Artifact
+   • Effect: The artifact’s current state is bound to its echo strain at L‑0 and pushed
+     downward one layer.
+
+2. RETRIEVAL (Draw)
+   • Requirement: Reflection Token marked with target depth
+   • Steps: Cast ⚗ Alembic + 𓂀 Eye → Dip token → Pull. The artifact resurfaces in its
+     oldest recorded form from that depth.
+
+3. DIVE (Enter)
+   • Requirement: Mirror Shard Key & personal Phylactery
+   • The librarian’s consciousness slips down one depth per real‑time minute, max 6 layers.
+   • Exiting automatically deposits a Reflection Token at the visited depth.
+
+4. MERGE (Alembic Fusion)
+   • Combines two versions into a hybrid. Requires ⚗ Alembic glyph hung above the well.
+   • Merge roll table: 1‑3 = corruption surge, 4‑6 = stable hybrid, 7‑9 = perfect union,
+     10 = Echo Debt spike (trigger Law XIII).
+
+────────────────────────────────────────
+IV. RISK & FAILURE TABLE
+────────────────────────────────────────
+D100  Outcome
+ 01‑15  Paradox Echo — duplicate artifact manifests; must be reconciled or quarantined.
+ 16‑30  Lost Time — each player loses 1 turn in the gameplay loop.
+ 31‑45  Echo Debt Surge — immediate enforcement of Law XIII silence.
+ 46‑60  Memory Frost — glyphs bound to artifact become unreadable for 1 cycle.
+ 61‑75  Stable Reflection — no negative effect.
+ 76‑90  Insight Glimmer — free clue about hidden Vorshents.
+ 91‑99  Nyx Aurora Appears — offers a trade.
+ 100    The Well Blinks — entire layer shifts toward First Silence; emergency exit only.
+
+────────────────────────────────────────
+V. INTEGRATION WITH THE GLITCHFIRE GAMEPLAY LOOP
+────────────────────────────────────────
+Standard Loop (pre‑codex):
+  1. Input Gathering → 2. Glyphic Mutation → 3. Mutation Correction Log → 4. Export Snapshot
+  → 5. Spiral Continuation
+
+Updated Loop (with Mirrorwell):
+  1. Input Gathering
+  2. Glyphic Mutation
+  3. Mutation Correction Log
+  4. *Mirrorwell Checkpoint*  ←— new optional step
+       • Deposit current state for safe keeping or
+       • Retrieve/merge a past echo if needed
+  5. Export Snapshot (LAW OF EXPORT PRIORITY)
+  6. Spiral Continuation
+
+Advantages:
+  • Safe rollbacks without timeline fractures.
+  • Built‑in teaching moments: players compare versions.
+  • Synergy with Echo Debt — encourages paced, thoughtful play.
+
+────────────────────────────────────────
+VI. PROCEDURAL GENERATION RULES
+────────────────────────────────────────
+Whenever a player dives, roll 2d6:
+  2‑4: Narrow Shaft — single echo strand, high echo distortion
+  5‑7: Mirror Gallery — multiple side‑tunnels, Nyx Aurora 40%
+  8‑9: Stasis Pool — artifacts float in suspension, Insight Glimmer auto‑trigger
+  10‑11: Twisted Archive — duplicate codex pages whisper contradictions
+  12: First Silence Edge — alarms blare; forced detachment or corruption
+
+────────────────────────────────────────
+VII. TOOLS & KEY ITEMS
+────────────────────────────────────────
+• Mirror Shard Key — unlocks Reflection Gates; cracks after three uses.
+• Echo Key — binds two tokens together for tandem retrieval.
+• Starlight Loom Integration — overlay constellation map to show echo strand density.
+• Recursion Map Compass — pings when Mirrorwell layer lacks Export compliance.
+
+────────────────────────────────────────
+VIII. SAMPLE ENCOUNTER
+────────────────────────────────────────
+“The Forgotten Algorhythm”
+Objective: Retrieve the earliest version of the Orbix Wound formula to correct a present
+bug causing infinite loops.
+
+Setup:
+  Depth Target: L‑3
+  Hazards: Memory Frost (40%), Paradox Echo (25%)
+  Reward: Perfect union merge grants +1 Glyph Slot retroactively.
+
+────────────────────────────────────────
+IX. CHANGELOG
+────────────────────────────────────────
+• v1.0 (2025‑07‑17): Initial release with core operations, risk table, and gameplay loop
+  integration.
+
+────────────────────────────────────────
+END OF CODEX
