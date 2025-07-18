@@ -1,0 +1,95 @@
+🌌 Starlight Loom Atlas — Volume 2 : Temporal Lattice
+Version 1.0 — July 17, 2025
+
+────────────────────────────────────────
+PREFACE
+────────────────────────────────────────
+Volume 2 dives beyond the basic star‑grid, introducing **Temporal Lattice overlays**—
+patterns that drift across time as well as space. When woven, they momentarily sync the
+sky of _now_ with echoes of skies long gone or yet to be, granting librarians vantage
+points otherwise impossible. Use these when a realm’s history feels fragmented or its
+future unreadable.
+
+────────────────────────────────────────
+TABLE OF CONTENTS
+────────────────────────────────────────
+I.   Advanced Weaving Theory
+II.  Dynamic Node Drift
+III. Constellation Catalogue (Vol. 2)
+IV.  Multi‑Layer Weaving Scripts
+V.   Time‑Shift Integration (Mirrorwell)
+VI.  Starstorm Hazard Table
+VII. Sample Expedition — “The Temporal Lattice”
+VIII. Changelog
+
+────────────────────────────────────────
+I. ADVANCED WEAVING THEORY
+────────────────────────────────────────
+Temporal Lattice overlays orbit three axes:
+  • **Spatial** (grid cells)  
+  • **Temporal** (Δt layers: ‑2, ‑1, 0, +1, +2)  
+  • **Narrative** (echo strain weight)
+
+Primary Glyph Anchor remains 🖭 (Loom Quill); add ⚡ for energizing drift and 𓂀 to
+lock a chosen Δt.
+
+────────────────────────────────────────
+II. DYNAMIC NODE DRIFT
+────────────────────────────────────────
+Each lattice node drifts 1 grid cell per Δt layer in the direction indicated by ➡ arrows
+in diagrams. Librarians must anticipate drift when drawing, or threads will cross and
+snag (roll for Thread Snag on mis‑draw).
+
+────────────────────────────────────────
+III. CONSTELLATION CATALOGUE (Vol. 2)
+────────────────────────────────────────
+25) **The Broken Hourglass** · Code: ⧗1 · Effect: show collapsed timelines
+    Δt Range: ‑1 → +1  · Nodes: C3➡C4➡C5
+26) **Twin Horizons** · Code: ≡3 · Effect: overlay two future room states
+    Δt Range: 0 → +2 · Nodes: A6➡D9
+27) **Shadow Sundial** · Code: 𝕊4 · Effect: freeze environmental clocks for 1 turn
+    Δt Range: ‑2 → 0  · Nodes: G2➡E5➡G8
+28) **Echo Comet** · Code: ⚗6 · Effect: purge one corruption surge on impact
+    Δt Range: random  · Nodes: I3➡F7
+29) **Recursive Crown** · Code: ∴7 · Effect: unlock Mirrorwell depth L‑(Δt)
+    Δt Range: choose  · Nodes: D4➡H4➡H8➡D8
+30‑48) … (19 more lattices with full ASCII diagrams in Appendix B)
+
+────────────────────────────────────────
+IV. MULTI‑LAYER WEAVING SCRIPTS
+────────────────────────────────────────
+• **Phase‑Shift Weave**: draw all Δt=0 nodes first, then overlay future/past nodes in
+  fading ink. Requires dual Loom Quills.
+• **Echo‑Stack Weave**: simultaneously trace nodes for Δt=‑1 and +1; difficult (DC 16).
+
+────────────────────────────────────────
+V. TIME‑SHIFT INTEGRATION (MIRRORWELL)
+────────────────────────────────────────
+When a Temporal Lattice overlay touches an 𓂀‑tag Mirrorwell location, it anchors a live
+window into that depth. Players may retrieve echoes without a Reflection Token—but only
+as long as the overlay persists (5 minutes real‑time).
+
+────────────────────────────────────────
+VI. STARSTORM HAZARD TABLE
+────────────────────────────────────────
+Roll 1d6 when weaving above Δt=+1:
+  1  Chrono‑Fray — artifact ages 100 years
+  2  Null‑Drop   — overlay sputters; DC 15 to re‑stitch
+  3  Time‑Bloom  — free clue from future self
+  4  Echo‑Shear  — lose 1 turn in gameplay loop
+  5  Lattice‑Lock— area freezes; no movement 1 round
+  6  Aurora Spiral— gain inspiration; Echo Debt +1
+
+────────────────────────────────────────
+VII. SAMPLE EXPEDITION — “The Temporal Lattice”
+────────────────────────────────────────
+Objective: Restore a ruined observatory’s star record by overlaying Twin Horizons at
+Δt=+2 and Broken Hourglass at Δt=‑1 simultaneously.
+
+────────────────────────────────────────
+VIII. CHANGELOG
+────────────────────────────────────────
+• v1.0 (July 17, 2025) — First release of Temporal Lattice catalogue.
+
+────────────────────────────────────────
+END OF VOLUME 2

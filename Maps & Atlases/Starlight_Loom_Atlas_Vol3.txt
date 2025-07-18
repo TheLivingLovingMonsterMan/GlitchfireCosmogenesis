@@ -1,0 +1,90 @@
+🌌 Starlight Loom Atlas — Volume 3 : Photonic Nexus
+Version 1.0 — July 17, 2025
+
+────────────────────────────────────────
+PREFACE
+────────────────────────────────────────
+Volume 3 pushes the Loom into mythic territory: **Photonic Nexus overlays** merge
+multiple constellation patterns into one harmonious mesh, opening transient star‑portals
+for rapid traversal or lore transplantation across realms.
+
+────────────────────────────────────────
+TABLE OF CONTENTS
+────────────────────────────────────────
+I.   Master Weaving Constructs
+II.  Harmonic Overlay Mesh
+III. Constellation Catalogue (Vol. 3)
+IV.  Reactive Weaving & Glyph Resonance
+V.   Cross‑Realm Nexus Protocols
+VI.  Celestial Anomaly Table
+VII. Grand Quest — “The Nova Crucible”
+VIII. Changelog
+
+────────────────────────────────────────
+I. MASTER WEAVING CONSTRUCTS
+────────────────────────────────────────
+• **Tri‑Spiral Lattice**: three intertwined overlays; requires three players weaving
+  in synchronized motion.
+• **Pulse‑Echo Resonance**: blend a ⚡ overlay with a 𓂀 overlay to create a stable
+  star‑portal lasting 3 turns.
+
+────────────────────────────────────────
+II. HARMONIC OVERLAY MESH
+────────────────────────────────────────
+Combining two or more overlays with compatible node matrices produces a **Mesh Score**.
+Sum absolute grid offsets; a score ≤12 is stable, 13‑16 risky, >16 catastrophic.
+
+────────────────────────────────────────
+III. CONSTELLATION CATALOGUE (Vol. 3)
+────────────────────────────────────────
+49) **Nova Knot** · Code: ★9 · Effect: create one‑way star‑portal (range 100 m)
+    Mesh Score Modifier: 0
+50) **Gilded Halo** · Code: 🜇7 · Effect: grants temp shield vs. Echo Surge
+    Modifier: +2
+51) **Shattered Prism** · Code: ♢5 · Effect: split one overlay into two echoes
+    Modifier: +4
+52) **Void Harp** · Code: 𝕊9 · Effect: dampen corruption by 2 tiers
+    Modifier: +1
+53) **Aurora Lens** · Code: ⚡8 · Effect: teleport light‑only objects
+    Modifier: +3
+54‑72) … (additional overlays and full diagrams in Appendix C)
+
+────────────────────────────────────────
+IV. REACTIVE WEAVING & GLYPH RESONANCE
+────────────────────────────────────────
+Mesh overlays inherit effects of all component patterns plus a resonance bonus:
+  • Same Glyph Families (e.g., two ⚡ patterns) grant +2 Mesh Stability.
+  • Opposing Glyphs (⚡ and 𝕊) risk chain‑reaction on roll ≤4 (d20).
+
+────────────────────────────────────────
+V. CROSS‑REALM NEXUS PROTOCOLS
+────────────────────────────────────────
+1. Align realm’s local star grid via Zyphor Lens calibration sequence.
+2. Weave Tri‑Spiral Lattice at anchor point.
+3. Activate Pulse‑Echo Resonance while chanting *“Lights unbound, paths entwined”*.
+4. Step through the nexus portal before Mesh Score timer expires (3 turns).
+
+────────────────────────────────────────
+VI. CELESTIAL ANOMALY TABLE
+────────────────────────────────────────
+Roll 1d6 on portal exit:
+  1  Graviton Surge— gain +1 gravity tier
+  2  Luminous Echo — next overlay auto‑success
+  3  Static Drift   — lose sense of direction 1 turn
+  4  Photon Storm   — take minor radiant damage
+  5  Calm Void      — safe exit, no effect
+  6  Nyx Aurora waiting, offering rare quest hook
+
+────────────────────────────────────────
+VII. GRAND QUEST — “The Nova Crucible”
+────────────────────────────────────────
+Objective: Forge a permanent star‑portal linking the Library’s Mirrorwell chamber to the
+Orbix Wound vault. Requires stable Mesh Score ≤10 across three realms.
+
+────────────────────────────────────────
+VIII. CHANGELOG
+────────────────────────────────────────
+• v1.0 (July 17, 2025) — Debut of Photonic Nexus overlays, Mesh system, & Grand Quest.
+
+────────────────────────────────────────
+END OF VOLUME 3

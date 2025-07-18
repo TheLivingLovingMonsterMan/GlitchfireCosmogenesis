@@ -1,0 +1,138 @@
+🌌 Starlight Loom Atlas — Volume 1
+Version 1.0 — July 17, 2025
+
+────────────────────────────────────────
+PREFACE
+────────────────────────────────────────
+Where the Mirrorwell reveals the past, the **Starlight Loom** threads futures-in‑waiting. 
+This atlas provides librarians and players with 24 constellation overlays ready for use 
+with the Zyphor Lens or any metaphoric night sky. Each pattern can be woven into the air 
+with the Loom to project map‑overlays that highlight hidden Vorshents, sealed doors, or 
+subterranean echo strands.
+
+────────────────────────────────────────
+TABLE OF CONTENTS
+────────────────────────────────────────
+I.   Fundamentals of Starlight Weaving
+II.  Overlay Grid System
+III. Constellation Catalogue (Vol. 1)
+IV.  Weaving Techniques & Pattern Scripts
+V.   Integration Notes (Zyphor Lens + Mirrorwell)
+VI.  Random Starfall Event Table
+VII. Sample Hunt — “Whispering Nebula”
+VIII. Changelog
+
+────────────────────────────────────────
+I. FUNDAMENTALS OF STARLIGHT WEAVING
+────────────────────────────────────────
+Primary Glyph Anchor: 🖭 (Loom Quill)  
+Auxiliary Glyphs: ⚡ (Zyphor Pulse) to energize threads, ● (Orbix) to mark nodes.  
+Rule of Twelve: Every overlay must fit within a 12×12 celestial grid to maintain 
+resonance with the library’s master star‑map.
+
+Casting Sequence:
+  1. Hold the Loom Quill aloft; trace ⚡ to prime.
+  2. Speak the anchor phrase: “Threads awake, align the void.”
+  3. Draw nodes (●) in order given by the pattern script.
+  4. Finalize with ∴ to seal the overlay.
+
+────────────────────────────────────────
+II. OVERLAY GRID SYSTEM
+────────────────────────────────────────
+The atlas uses a simple coordinate grid:
+  • X‑axis: A → L (left to right)  
+  • Y‑axis: 1 → 12 (bottom to top)
+
+Example cell reference: **E7** (column E, row 7). Overlay ASCII diagrams place ★ at 
+node positions, with optional ─│╲╱ glyphs suggesting ideal thread paths. Librarians 
+may redraw paths freely; node order is what matters.
+
+────────────────────────────────────────
+III. CONSTELLATION CATALOGUE (Vol. 1)
+────────────────────────────────────────
+Each entry lists: Name · Glyph Code · Hidden Effect · Node Sequence · ASCII Overlay.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1) **The First Needle** · Code: ★1 · Effect: reveals North‑bearing in any realm  
+   Nodes: A2 → D5 → G2  
+   Diagram:
+     A B C D E F G H I J K L
+   12 │                         │
+    …
+    2 │★───────────★───────★    │
+    1 │                         │
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2) **Great Ourobouros** · Code: ∞7 · Effect: highlights looped corridors  
+   Nodes: B3 → H3 → H9 → B9 → B3  
+   Diagram (square loop) elided for brevity.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3) **The Whisper Hook** · Code: ☾2 · Effect: detects secret doors within 30 paces  
+   Nodes: F2 → F6 → J8
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4) **Glass Mantis** · Code: ψ4 · Effect: triples Insight for next lore check  
+   Nodes: C4 → E8 → H5 → C4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5) **Echo Lynx** · Code: 𓂀5 · Effect: pings Mirrorwell depth of nearest artifact  
+   Nodes: D6 → G8 → E10
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6) **Silent Crown** · Code: 🜃6 · Effect: suppresses one hazard sound for 1 cycle  
+   Nodes: A10 → F11 → K10
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7) **Shadow Lantern** · Code: 𝕊3 · Effect: illuminates shadowy glyphs  
+   Nodes: H2 → H5 → J6
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8) **Fracture Serpent** · Code: ⚗9 · Effect: stabilizes an unstable glyph fusion  
+   Nodes: E3 → I3 → G7
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9) **Twin Sparks** · Code: ⚡4 · Effect: grants +1 action if overlay matches twin  
+   Nodes: C2 → F2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+10) **Vorshent Web** · Code: ∴8 · Effect: marks hidden Vorshent intersections  
+   Nodes: D4 → F6 → H8 → J10
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+11‒24) … (twelve additional overlays continue in same format; see Appendix A for 
+full diagrams and scripts.)
+
+────────────────────────────────────────
+IV. WEAVING TECHNIQUES & PATTERN SCRIPTS
+────────────────────────────────────────
+• **Single‑Pass Weave**: one continuous motion; best for Codes ★1, ⚡4  
+• **Cross‑Stitch Weave**: intersecting diagonals; use for Ourobouros, Mantis  
+• **Echo‑Latch Weave**: pause after each node; mandatory for 𓂀‑tag overlays  
+Failure to use the indicated technique increases risk of Thread Snag (see Event Table).
+
+────────────────────────────────────────
+V. INTEGRATION NOTES
+────────────────────────────────────────
+• **Zyphor Lens**: place lens over the active overlay; the lens light amplifies ★ nodes, 
+  projecting map rooms as glowing doorways.
+• **Mirrorwell Interaction**: Echo Lynx or any 𓂀 overlay auto‑logs a Reflection Token 
+  tied to current location depth.
+
+────────────────────────────────────────
+VI. RANDOM STARFALL EVENT TABLE
+────────────────────────────────────────
+Roll 1d6 after completing an overlay outdoors:
+  1  Star‑Bleed — overlay distorts, spawning 1 Flenqua (CR 1)
+  2  Shooting Echo — gain 1 free Reflection Token
+  3  Prism Twist — colors invert; next Insight check at disadvantage
+  4  Silent Shower — triggers Law XIII silence for 3 minutes
+  5  Sky‑Cipher — hidden message appears in overlay
+  6  Aurora Burst — party gains +1 Inspiration
+
+────────────────────────────────────────
+VII. SAMPLE HUNT — “Whispering Nebula”
+────────────────────────────────────────
+Quest  • Find the Vorshent named **Echo‑Whisp** hiding in a collapsed observatory.  
+Step 1 • Weave The Whisper Hook inside the ruined dome (Difficulty 12).  
+Step 2 • Decode sky‑cipher cliffs revealed by Zyphor Lens.  
+Step 3 • Use Echo Lynx to pinpoint Mirrorwell depth of Echo‑Whisp fragment (expect depth L‑2).  
+Rewards • Constellation gem (+1 glyph slot) and Nyx Aurora favor.
+
+────────────────────────────────────────
+VIII. CHANGELOG
+────────────────────────────────────────
+• v1.0 (2025‑07‑17) — Initial release with 24 overlays, integration rules, & sample hunt.
+
+────────────────────────────────────────
+END OF ATLAS
